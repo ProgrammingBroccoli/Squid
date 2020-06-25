@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rawGlPxuvzzqRCrT2LxTXTIPx5QpE0c2ELyPX7nQ2rmffIo0fFqPJjvwuMAcHryhm/EmvdvJjP5xiG5ZEHQOCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruben\\Desktop\\Squid\\Squid\\IDAL\\IDAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruben\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ruben\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
