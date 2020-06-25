@@ -1,0 +1,22 @@
+﻿@model Squid.Viewmodels.LoginViewmodel
+@{
+    ViewBag.Title = "title";
+    //Layout = "_Layout";
+}
+
+@using (Html.BeginForm("Login", "Login", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="box">
+        <form class="content">
+            <h3>Login</h3>
+            @Html.LabelFor(m => m.user.Username, new { @class = "h4-login" })
+            @Html.TextBoxFor(m => m.user.Username, new { @class = "login-textbox" })
+            @Html.LabelFor(m => m.user.PasswordHash, new { @class = "h4-login" })
+            @Html.PasswordFor(m => m.user.PasswordHash, new { @class = "login-textbox" })
+            <br>
+            <button class="login-button">Login</button>
+        </form>
+    </div>
+}

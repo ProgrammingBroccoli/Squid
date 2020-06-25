@@ -1,0 +1,12 @@
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\bin\Debug\netstandard2.0\IDAL.deps.json
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\bin\Debug\netstandard2.0\IDAL.dll
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\bin\Debug\netstandard2.0\IDAL.pdb
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\bin\Debug\netstandard2.0\Models.dll
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\bin\Debug\netstandard2.0\Models.pdb
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\obj\Debug\netstandard2.0\IDAL.csprojAssemblyReference.cache
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\obj\Debug\netstandard2.0\IDAL.AssemblyInfoInputs.cache
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\obj\Debug\netstandard2.0\IDAL.AssemblyInfo.cs
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\obj\Debug\netstandard2.0\IDAL.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\obj\Debug\netstandard2.0\IDAL.csproj.CopyComplete
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\obj\Debug\netstandard2.0\IDAL.dll
+C:\Users\Ruben\Desktop\Squid\Squid\IDAL\obj\Debug\netstandard2.0\IDAL.pdb
